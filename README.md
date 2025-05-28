@@ -6,7 +6,7 @@
 - Jupyter Notebook
 - Pandas
 - NetworkX
-- Matplotlib (optional for graph visualization)
+- Matplotlib
 - VS Code with Jupyter Extension
 
   1. Clone the Repository
